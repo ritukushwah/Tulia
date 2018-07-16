@@ -1,0 +1,62 @@
+[13-Nov-2017 11:14:01 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/minditzc/public_html/tulia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[13-Nov-2017 11:14:35 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/minditzc/public_html/tulia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[13-Nov-2017 11:14:54 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/minditzc/public_html/tulia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[13-Nov-2017 11:21:25 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:21:28 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:21:29 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:21:51 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:21:52 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:22:15 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:22:18 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:23:10 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:23:34 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:23:35 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:23:37 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:25:33 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:25:34 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:25:35 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:25:47 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/minditzc/public_html/tulia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[13-Nov-2017 11:26:17 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:26:22 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:26:24 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Admin.php on line 1
+[13-Nov-2017 11:56:43 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/minditzc/public_html/tulia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[13-Nov-2017 11:57:30 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/minditzc/public_html/tulia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[13-Nov-2017 12:26:24 Etc/GMT] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/minditzc/public_html/tulia/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[14-Nov-2017 08:46:45 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 321
+[14-Nov-2017 08:46:49 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 321
+[14-Nov-2017 08:46:59 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::customUpdate() in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 303
+[14-Nov-2017 08:47:04 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::customUpdate() in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 303
+[14-Nov-2017 10:02:52 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 319
+[14-Nov-2017 10:02:55 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 319
+[14-Nov-2017 10:08:32 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 319
+[14-Nov-2017 10:08:39 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 319
+[14-Nov-2017 11:19:20 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 319
+[14-Nov-2017 11:25:27 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 319
+[14-Nov-2017 11:25:32 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 319
+[14-Nov-2017 11:25:34 Etc/GMT] PHP Fatal error:  Call to a member function is_admin() on null in /home/minditzc/public_html/tulia/application/core/Common_Controller.php on line 319
+[14-Nov-2017 11:56:37 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::get_total_count() in /home/minditzc/public_html/tulia/application/modules/admin/views/dashboard.php on line 12
+[14-Nov-2017 11:56:39 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::get_total_count() in /home/minditzc/public_html/tulia/application/modules/admin/views/dashboard.php on line 12
+[14-Nov-2017 11:56:59 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::get_total_count() in /home/minditzc/public_html/tulia/application/modules/admin/views/dashboard.php on line 12
+[14-Nov-2017 11:57:33 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::get_total_count() in /home/minditzc/public_html/tulia/application/modules/admin/views/dashboard.php on line 12
+[14-Nov-2017 11:58:06 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::get_total_count() in /home/minditzc/public_html/tulia/application/modules/admin/views/dashboard.php on line 12
+[14-Nov-2017 11:58:07 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::get_total_count() in /home/minditzc/public_html/tulia/application/modules/admin/views/dashboard.php on line 12
+[22-Nov-2017 14:00:48 Etc/GMT] PHP Fatal error:  Cannot use object of type stdClass as array in /home/minditzc/public_html/tulia/application/modules/service/controllers/Service.php on line 86
+[29-Nov-2017 05:46:01 Etc/GMT] PHP Fatal error:  Call to undefined function is_data_exists() in /home/minditzc/public_html/tulia/application/modules/service/controllers/Service.php on line 85
+[29-Nov-2017 05:47:22 Etc/GMT] PHP Fatal error:  Call to undefined function is_data_exists() in /home/minditzc/public_html/tulia/application/modules/service/controllers/Service.php on line 85
+[29-Nov-2017 05:51:28 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::is_data_exists() in /home/minditzc/public_html/tulia/application/modules/service/controllers/Service.php on line 85
+[04-Dec-2017 12:57:24 Etc/GMT] PHP Fatal error:  Call to undefined function time_elapsed_string() in /home/minditzc/public_html/tulia/application/modules/service/models/Service_model.php on line 380
+[07-Dec-2017 14:37:26 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::get_user_post_list() in /home/minditzc/public_html/tulia/application/modules/admin/controllers/Users.php on line 61
+[18-Dec-2017 12:42:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16384 bytes) in /home/tulia/public_html/system/libraries/Image_lib.php on line 1463
+[18-Dec-2017 12:42:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 28672 bytes) in /home/tulia/public_html/system/core/Exceptions.php on line 37
+[18-Dec-2017 12:49:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 16384 bytes) in /home/tulia/public_html/system/libraries/Image_lib.php on line 1463
+[18-Dec-2017 12:49:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 28672 bytes) in /home/tulia/public_html/system/core/Exceptions.php on line 37
+[24-May-2018 12:47:47 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Vendorpost.php on line 3
+[24-May-2018 12:47:48 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Vendorpost.php on line 3
+[24-May-2018 12:48:47 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Vendorpost.php on line 3
+[24-May-2018 12:48:48 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Vendorpost.php on line 3
+[24-May-2018 12:49:46 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Vendorpost.php on line 3
+[24-May-2018 12:49:48 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Vendorpost.php on line 3
+[24-May-2018 12:50:47 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Vendorpost.php on line 3
+[24-May-2018 12:50:48 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Vendorpost.php on line 3
+[24-May-2018 12:51:12 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Posts.php on line 4
+[24-May-2018 12:51:12 UTC] PHP Fatal error:  Class 'FrontCommon_Controller' not found in /home/tulia/public_html/application/modules/home/controllers/Posts.php on line 4
